@@ -1,0 +1,245 @@
+2024-05-04 23:10:18,538 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20440 (C:\Users\oneay\OneDrive\Desktop\CMD_Clinic_Service\target\classes started by oneay in C:\Users\oneay\OneDrive\Desktop\CMD_Clinic_Service)
+2024-05-04 23:10:18,540 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:10:18,541 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:11:58,645 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 18324 (C:\Users\oneay\OneDrive\Desktop\CMD_Clinic_Service\target\classes started by oneay in C:\Users\oneay\OneDrive\Desktop\CMD_Clinic_Service)
+2024-05-04 23:11:58,647 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:11:58,648 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:14:47,295 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 4856 (C:\Users\oneay\OneDrive\Desktop\CMD_Clinic_Service\target\classes started by oneay in C:\Users\oneay\OneDrive\Desktop\CMD_Clinic_Service)
+2024-05-04 23:14:47,296 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:14:47,297 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:15:31,932 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 21956 (C:\Users\oneay\OneDrive\Desktop\CMD_Clinic_Service\target\classes started by oneay in C:\Users\oneay\OneDrive\Desktop\CMD_Clinic_Service)
+2024-05-04 23:15:31,934 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:15:31,935 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:21:54,206 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 4576 (C:\Users\oneay\OneDrive\Desktop\CMD_Clinic_Service\target\classes started by oneay in C:\Users\oneay\OneDrive\Desktop\CMD_Clinic_Service)
+2024-05-04 23:21:54,207 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:21:54,209 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:22:02,109 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Started CmdClinicServiceApplication in 8.317 seconds (process running for 9.124)
+2024-05-04 23:29:32,003 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 26536 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:29:32,004 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:29:32,005 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:31:26,124 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:31:26,125 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:31:26,126 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:31:32,324 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Started CmdClinicServiceApplication in 6.624 seconds (process running for 7.505)
+2024-05-04 23:36:07,643 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:36:07,644 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:36:07,645 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:36:09,674 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Started CmdClinicServiceApplication in 2.062 seconds (process running for 284.857)
+2024-05-04 23:36:49,899 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:36:49,900 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:36:49,900 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:36:51,610 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Started CmdClinicServiceApplication in 1.743 seconds (process running for 326.792)
+2024-05-04 23:39:02,518 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:39:02,518 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:39:02,518 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:39:04,296 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Started CmdClinicServiceApplication in 1.806 seconds (process running for 459.479)
+2024-05-04 23:39:13,967 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:39:13,968 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:39:13,968 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:39:16,270 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Started CmdClinicServiceApplication in 2.359 seconds (process running for 471.452)
+2024-05-04 23:39:48,321 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:39:48,321 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:39:48,322 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:41:39,507 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:41:39,508 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:41:39,508 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:42:10,821 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:42:10,822 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:42:10,822 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:42:20,684 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:42:20,684 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:42:20,684 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:42:38,683 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:42:38,683 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:42:38,683 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:42:55,685 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:42:55,685 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:42:55,685 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:43:15,711 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:43:15,711 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:43:15,712 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:43:24,561 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:43:24,561 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:43:24,561 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:43:32,321 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:43:32,322 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:43:32,322 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:43:59,503 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:43:59,503 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:43:59,503 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:44:10,330 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:44:10,330 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:44:10,330 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:44:22,238 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:44:22,239 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:44:22,239 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:44:34,160 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:44:34,161 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:44:34,161 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:44:54,180 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:44:54,181 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:44:54,181 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:45:25,485 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:45:25,485 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:45:25,485 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:45:50,678 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:45:50,678 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:45:50,678 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:46:08,711 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:46:08,711 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:46:08,712 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:46:38,999 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:46:38,999 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:46:39,000 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:47:08,297 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:47:08,297 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:47:08,297 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:47:51,875 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:47:51,875 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:47:51,875 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:48:08,988 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:48:08,988 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:48:08,988 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:48:27,369 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:48:27,370 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:48:27,370 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:48:38,708 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:48:38,709 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:48:38,709 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:48:46,863 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:48:46,863 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:48:46,864 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:48:50,896 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:48:50,896 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:48:50,896 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:48:59,039 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:48:59,039 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:48:59,040 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:49:16,346 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:49:16,346 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:49:16,346 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:49:51,072 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:49:51,072 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:49:51,073 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:49:53,510 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:49:53,511 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:49:53,511 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:49:59,397 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:49:59,398 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:49:59,398 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:50:42,094 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:50:42,094 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:50:42,094 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:51:00,701 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:51:00,701 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:51:00,701 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:51:15,792 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:51:15,792 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:51:15,792 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:51:23,809 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:51:23,809 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:51:23,809 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:51:27,627 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:51:27,627 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:51:27,627 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:51:37,582 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:51:37,582 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:51:37,582 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:52:18,295 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:52:18,295 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:52:18,295 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:52:29,308 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:52:29,309 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:52:29,309 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:53:00,750 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:53:00,751 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:53:00,751 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:53:10,764 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:53:10,765 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:53:10,765 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:53:14,606 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:53:14,606 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:53:14,606 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:54:05,542 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:54:05,543 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:54:05,543 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:54:09,580 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:54:09,581 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:54:09,581 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:54:26,947 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:54:26,948 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:54:26,948 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:54:41,199 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:54:41,200 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:54:41,200 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:54:51,376 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:54:51,376 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:54:51,376 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:55:00,654 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:55:00,655 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:55:00,655 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:55:03,496 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Started CmdClinicServiceApplication in 2.881 seconds (process running for 1418.679)
+2024-05-04 23:55:34,698 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:55:34,698 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:55:34,698 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:55:36,794 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Started CmdClinicServiceApplication in 2.129 seconds (process running for 1451.977)
+2024-05-04 23:55:50,624 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:55:50,624 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:55:50,624 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:55:52,707 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Started CmdClinicServiceApplication in 2.104 seconds (process running for 1467.89)
+2024-05-04 23:56:06,922 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:56:06,922 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:56:06,922 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:56:08,946 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Started CmdClinicServiceApplication in 2.049 seconds (process running for 1484.129)
+2024-05-04 23:59:04,694 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 20972 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-04 23:59:04,694 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-04 23:59:04,694 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-04 23:59:06,817 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Started CmdClinicServiceApplication in 2.151 seconds (process running for 1661.999)
+2024-05-05 00:02:45,540 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 22308 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-05 00:02:45,541 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-05 00:02:45,542 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-05 00:02:52,090 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Started CmdClinicServiceApplication in 6.896 seconds (process running for 7.801)
+2024-05-05 00:08:07,642 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 22308 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-05 00:08:07,642 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-05 00:08:07,642 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-05 00:08:10,298 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Started CmdClinicServiceApplication in 2.691 seconds (process running for 326.01)
+2024-05-05 00:08:20,943 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 22308 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-05 00:08:20,943 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-05 00:08:20,943 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-05 00:08:23,194 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Started CmdClinicServiceApplication in 2.286 seconds (process running for 338.905)
+2024-05-05 00:08:40,963 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 22308 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-05 00:08:40,963 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-05 00:08:40,963 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-05 00:08:43,264 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Started CmdClinicServiceApplication in 2.332 seconds (process running for 358.976)
+2024-05-05 00:08:44,762 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 22308 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-05 00:08:44,763 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-05 00:08:44,763 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-05 00:08:47,042 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Started CmdClinicServiceApplication in 2.306 seconds (process running for 362.754)
+2024-05-05 00:08:50,632 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 22308 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-05 00:08:50,632 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-05 00:08:50,632 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-05 00:08:52,774 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Started CmdClinicServiceApplication in 2.166 seconds (process running for 368.486)
+2024-05-05 00:09:11,684 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 22308 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-05 00:09:11,684 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-05 00:09:11,684 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-05 00:09:13,724 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Started CmdClinicServiceApplication in 2.069 seconds (process running for 389.436)
+2024-05-05 00:09:28,559 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 22308 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-05 00:09:28,559 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-05 00:09:28,559 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-05 00:09:30,657 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Started CmdClinicServiceApplication in 2.122 seconds (process running for 406.368)
+2024-05-05 00:10:20,332 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 22308 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-05 00:10:20,333 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-05 00:10:20,333 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-05 00:10:22,446 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Started CmdClinicServiceApplication in 2.141 seconds (process running for 458.158)
+2024-05-05 00:10:38,313 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 22308 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-05 00:10:38,313 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-05 00:10:38,313 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-05 00:10:40,309 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Started CmdClinicServiceApplication in 2.029 seconds (process running for 476.021)
+2024-05-05 00:11:12,581 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 22308 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-05 00:11:12,582 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-05 00:11:12,582 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-05 00:11:14,631 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Started CmdClinicServiceApplication in 2.076 seconds (process running for 510.343)
+2024-05-05 00:11:30,918 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Starting CmdClinicServiceApplication using Java 17.0.10 with PID 13480 (C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service\target\classes started by DARSHAN in C:\Users\DARSHAN\Downloads\CMD_Clinic_Service\CMD_Clinic_Service)
+2024-05-05 00:11:30,919 DEBUG c.t.c.c.CmdClinicServiceApplication [restartedMain] Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-05 00:11:30,920 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-05 00:11:37,721 INFO c.t.c.c.CmdClinicServiceApplication [restartedMain] Started CmdClinicServiceApplication in 7.228 seconds (process running for 8.143)
