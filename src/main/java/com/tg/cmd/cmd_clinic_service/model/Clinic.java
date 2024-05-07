@@ -28,6 +28,11 @@ public class Clinic {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "id")
     private long id;
+    
+    // Doctor ID
+    @Column(name = "doctor_id")
+    private String doctorId;
+    
 
     // Full name of the clinic (e.g., Clinic XYZ)
     @Column
@@ -78,11 +83,16 @@ public class Clinic {
     private LocalDateTime dateCreated;
     
     // Flag indicating whether the clinic is active
-    @Column(name = "is_active")
-    private boolean isActive;
+    @Column(name = "is_ServiceActive")
+    private boolean isServiceActive;
+    
+    @Column(name = "set_ServiceActive")
+    private boolean setServiceActive;
     
 	// List of services offered by the clinic
     @OneToMany(mappedBy = "clinic", cascade = CascadeType.ALL)
     private List<ServiceOffered> servicesOffered;
+
+	
     
 }

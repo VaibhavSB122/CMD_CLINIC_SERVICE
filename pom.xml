@@ -18,6 +18,45 @@
 		<java.version>17</java.version>
 	</properties>
 	<dependencies>
+		
+		
+		
+    <!-- JUnit Jupiter API for writing JUnit 5 tests -->
+    <dependency>
+        <groupId>org.junit.jupiter</groupId>
+        <artifactId>junit-jupiter-api</artifactId>
+     
+        <scope>test</scope>
+    </dependency>
+
+    <!-- JUnit Jupiter Engine to execute JUnit 5 tests -->
+    <dependency>
+        <groupId>org.junit.jupiter</groupId>
+        <artifactId>junit-jupiter-engine</artifactId>
+      
+        <scope>test</scope>
+    </dependency>
+
+    <!-- Mockito core library for mocking dependencies -->
+    <dependency>
+        <groupId>org.mockito</groupId>
+        <artifactId>mockito-core</artifactId>
+      
+        <scope>test</scope>
+    </dependency>
+
+    <!-- Mockito JUnit Jupiter support (optional, for easier integration with JUnit 5) -->
+    <dependency>
+        <groupId>org.mockito</groupId>
+        <artifactId>mockito-junit-jupiter</artifactId>
+       
+        <scope>test</scope>
+    </dependency>
+
+		
+		
+		
+		
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-actuator</artifactId>
@@ -94,11 +133,11 @@
         <version>2.3.1</version>
     </dependency>
 
-	  <dependency>
+	 <!-- <dependency>
 	  	<groupId>com.tg</groupId>
 	  	<artifactId>patientregistrationapi</artifactId>
 	  	<version>0.0.1-SNAPSHOT</version>
-	  </dependency>
+	  </dependency>-->
 	</dependencies>
 
 	<build>

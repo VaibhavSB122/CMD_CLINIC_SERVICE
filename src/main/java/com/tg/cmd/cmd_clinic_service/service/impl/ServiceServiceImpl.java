@@ -5,6 +5,9 @@ import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import com.tg.cmd.cmd_clinic_service.exception.BadChoiceException;
+import com.tg.cmd.cmd_clinic_service.externalservice.DoctorServiceFactory;
+import com.tg.cmd.cmd_clinic_service.externalservice.IDoctorService;
 import com.tg.cmd.cmd_clinic_service.model.Clinic;
 import com.tg.cmd.cmd_clinic_service.repository.ServiceRepository;
 import com.tg.cmd.cmd_clinic_service.service.ServiceService;
@@ -20,6 +23,12 @@ public class ServiceServiceImpl implements ServiceService {
 	@Autowired
 	private ServiceRepository serviceRepository;
 
+	private IDoctorService doctorService;
+	public ServiceServiceImpl() throws BadChoiceException {
+		// TODO Auto-generated constructor stub
+    	doctorService = DoctorServiceFactory.create("mock");
+	}
+	
 	@Override
 	public List<Clinic> getAllServices() {
 		try {
@@ -109,4 +118,11 @@ public class ServiceServiceImpl implements ServiceService {
 			throw new RuntimeException("Error deleting clinic with ID " + id + ": " + e.getMessage());
 		}
 	}
+	
+	protected boolean setBloodTestScheduled(Clinic clinic) {
+        logger.info("Checking doctor's availability for blood test...");
+	    return doctorService.checkBloodTestAndInactiveService(clinic);
+	}
+
+
 }

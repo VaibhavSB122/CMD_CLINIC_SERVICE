@@ -11,7 +11,9 @@ public class WebApiConfig implements WebMvcConfigurer{
 
     @Override
     public void configureContentNegotiation(final ContentNegotiationConfigurer configurer) {
-        configurer.favorPathExtension(true).favorParameter(true).parameterName("mediaType")
+        configurer.favorPathExtension(true)
+        		.favorParameter(true)
+        		.parameterName("mediaType")
                 .ignoreAcceptHeader(false)
                 .useRegisteredExtensionsOnly(false)
                 .defaultContentType(MediaType.APPLICATION_JSON)

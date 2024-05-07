@@ -30,11 +30,6 @@ import com.tg.cmd.cmd_clinic_service.service.UserAuthService;
 import com.tg.cmd.cmd_clinic_service.service.UserService;
 
 
-
-
-
-
-
 @RestController
 public class JwtRestController {
 
